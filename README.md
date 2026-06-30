@@ -164,6 +164,20 @@ Free demo hosting has CPU, memory, sleep, and local-storage limits. Disable cros
 - Public demo unsuitable for real customer or regulated financial data
 - Production use requires authentication, encryption, audit logs, durable storage, drift monitoring, case management, privacy review, and incident response
 
+## 👨‍💻 Team
+
+Developed by:
+
+- **Naman Sharma**
+- **Mitesh Nehra**
+
+B.Tech Engineering Students
+
+
+## 🤝 Collaboration
+
+This repository is maintained as part of my personal GitHub portfolio. The project was developed collaboratively as a college team project.
+
 ## License
 
 This portfolio project does not include a commercial license. Add an approved license before redistribution or production use.
